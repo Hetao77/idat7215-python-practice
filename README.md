@@ -1,5 +1,10 @@
-# IDAT 7215 Python Practice
+# IDAT 7215 Study Studio
 
-300 bilingual practice questions with answers, topic filters, bookmarks and browser-local progress. Responsive layout for phones and desktops.
+- Original 300 bilingual Python practice questions.
+- Quick 50: weighted sampling of recurring exam concepts, topic coverage, a new-set button and saved sets.
+- Original papers: 180 questions from 2025-03-20 (62), 2025-10-23 (57) and 2026-03-19 (61), with original wording, paper references and solutions.
+- Mobile layout, local browser progress, bookmarks, mistake review and accuracy per practice unit.
 
-Open index.html, or enable GitHub Pages from the main branch root.
+Original answer ambiguities are explained; reasonable alternatives are accepted. Reading and written questions use self-assessment.
+
+Website: https://hetao77.github.io/idat7215-python-practice/
